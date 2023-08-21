@@ -1,5 +1,5 @@
 {
-  "name": "codecurosity/craft-aliyun-oss",
+  "name": "codecurosity/craft-alibaba-oss",
   "description": "Alibaba OSS integration for Craft CMS",
   "type": "craft-plugin",
   "keywords": [

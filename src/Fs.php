@@ -22,7 +22,7 @@ class Fs extends FlysystemFs
 
     public static function displayName(): string
     {
-        return 'Aliyun OSS';
+        return 'Alibaba OSS';
     }
 
     public function behaviors(): array
@@ -45,7 +45,7 @@ class Fs extends FlysystemFs
 
     public function getSettingsHtml(): ?string
     {
-        return Craft::$app->getView()->renderTemplate('craft-aliyun-oss/fsSettings', [
+        return Craft::$app->getView()->renderTemplate('craft-alibaba-oss/fsSettings', [
             'fs'      => $this,
             'periods' => array_merge(['' => ''], Assets::periodList()),
         ]);

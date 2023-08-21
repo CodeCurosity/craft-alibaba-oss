@@ -1,5 +1,5 @@
 {
-  "name": "usman/craft-aliyun-oss",
+  "name": "codecurosity/craft-aliyun-oss",
   "description": "Alibaba OSS integration for Craft CMS",
   "type": "craft-plugin",
   "keywords": [
@@ -36,7 +36,7 @@
   },
   "extra": {
     "name": "Alibaba OSS Volume",
-    "handle": "craft-aliyun-oss"
+    "handle": "craft-alibaba-oss"
   },
   "config": {
     "platform": {

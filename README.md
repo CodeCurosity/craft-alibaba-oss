@@ -28,7 +28,7 @@ composer require codecurosity/craft-alibaba-oss
 
 ## Setup
 
-To create a new Aliyun OSS filesystem to use with your volumes,
+To create a new Alibaba OSS filesystem to use with your volumes,
 
 - Login admin, visit **Settings** → **Filesystems**,
 - Press **New filesystem**.

@@ -20,7 +20,7 @@ Open your terminal and run the following commands:
 cd /path/to/my-project
 
 # tell Composer to load the plugin
-composer require usman/craft-alibaba-oss
+composer require codecurosity/craft-alibaba-oss
 
 # tell Craft to install the plugin
 ./craft plugin/install craft-alibaba-oss
